@@ -1,0 +1,13 @@
+{
+  "name": "No 'Window is ready'",
+  "description": "An extension that stops the 'Window is ready' notificaiton and focuses on the window",
+  "uuid": "no-window-is-ready@diskettefox.github.com",
+  "version": 1.0,
+  "shell-version": [
+    "45", "46", "47", "48", "49", "50", "51"
+  ],
+  "url": "https://codeberg.org/DisketteFox/no-window-is-ready",
+  "donations": {
+    "github": "DisketteFox"
+  }
+}
