@@ -17,8 +17,9 @@ An extension that blocks the "Window is ready" notification and focuses the wind
 ### From source
 
 ```bash
-git clone https://codeberg.org/DisketteFox/no-window-is-ready \
-    ~/.local/share/gnome-shell/extensions/no-window-is-ready@diskettefox.github.com
+git clone https://codeberg.org/DisketteFox/no-window-is-ready
+cd no-window-is-ready 
+cp -r no-window-is-ready@diskettefox.github.com ~/.local/share/gnome-shell/extensions/
 gnome-extensions enable no-window-is-ready@diskettefox.github.com
 ```
 
